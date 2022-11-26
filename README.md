@@ -6,12 +6,22 @@ If the video cannot be open from github or is too blurry, here's another link to
 
 Link to Figma Prototype: https://www.figma.com/file/pCzHpiw95c8xhlcUVF4axV/2101_Prototype?node-id=1%3A16&t=MW5BdnFwpJKKhMmq-0
 
-Inside the figma link, there are 3 different pages which can be found at the left side of the screen 
+Inside the figma link, there are 3 different pages - IT Admin, Staff & Manager
+
+To view the IT Admin/Staff/Manager demo, 
+
+1) Click on the IT Admin/Staff/Manager page (either one)
+
+
+For those with google account or regular figma users: (at the left side of the screen)
 
 ![image](https://user-images.githubusercontent.com/92836838/204093245-5f02c369-b669-4d8c-bc4e-7f1179ca2e2a.png)
 
-To view the IT Admin/Staff/Manager demo, 
-1) Click on the IT Admin/Staff/Manager page (either one)
+
+For those without google account or non-figma users: (at the top left corner)
+
+![image](https://user-images.githubusercontent.com/92836838/204095511-2af143e8-a5a2-45a0-9d22-539e68184a47.png)
+
 2) Click on the play button found at the top right corner
 
 ![image](https://user-images.githubusercontent.com/92836838/204093616-92df6736-3c6c-403e-ac6c-9490f4775e91.png)
